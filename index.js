@@ -1,6 +1,6 @@
 
 /**
  * @module hmmn
- * @author diesweed
+ * @author weedpot
  */
 
